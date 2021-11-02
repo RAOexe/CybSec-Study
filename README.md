@@ -11,6 +11,7 @@
 - [*Buffer Overflow*](https://www.youtube.com/playlist?list=PLLKT__MCUeix3O0DPbmuaRuR_4Hxo4m3G)
 - [*Dark Web*](https://www.youtube.com/playlist?list=PLzH6n4zXuckpPcCIJigThQgx5CB5gPiC6)
 - [*Random*](https://www.youtube.com/playlist?list=PLbkhA3aMEJo8vgEZ_QhG3uq_Grn2HWwsh)
+- [*Cryptography & Network Security*](https://www.youtube.com/playlist?list=PL9FuOtXibFjV77w2eyil4Xzp8eooqsPp8)
 
 ## Badges
 
